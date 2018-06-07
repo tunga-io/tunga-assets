@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?6inr3z');
-  src:  url('fonts/Tunga-Icons.eot?6inr3z#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?6inr3z') format('truetype'),
-    url('fonts/Tunga-Icons.woff?6inr3z') format('woff'),
-    url('fonts/Tunga-Icons.svg?6inr3z#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?fqez5b');
+  src:  url('fonts/Tunga-Icons.eot?fqez5b#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?fqez5b') format('truetype'),
+    url('fonts/Tunga-Icons.woff?fqez5b') format('woff'),
+    url('fonts/Tunga-Icons.svg?fqez5b#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-map-marker:before {
+  content: "\e997";
+}
+.tg-ic-map-o:before {
+  content: "\e998";
+}
+.tg-ic-map-pin:before {
+  content: "\e999";
+}
+.tg-ic-map-signs:before {
+  content: "\e99a";
+}
+.tg-ic-map:before {
+  content: "\e99b";
+}
 .tg-ic-location-arrow:before {
   content: "\e996";
 }
