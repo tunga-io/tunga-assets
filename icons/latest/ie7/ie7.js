@@ -13,6 +13,12 @@
 		el.innerHTML = '<span style="font-family: \'Tunga-Icons\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'tg-ic-location-arrow': '&#xe996;',
+		'tg-ic-phone-square': '&#xe991;',
+		'tg-ic-phone': '&#xe992;',
+		'tg-ic-address-book-o': '&#xe993;',
+		'tg-ic-address-book': '&#xe994;',
+		'tg-ic-lock': '&#xe995;',
 		'tg-ic-flag-o': '&#xe98f;',
 		'tg-ic-flag': '&#xe990;',
 		'tg-ic-flag-checkered': '&#xe97e;',

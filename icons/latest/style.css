@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?oriplk');
-  src:  url('fonts/Tunga-Icons.eot?oriplk#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?oriplk') format('truetype'),
-    url('fonts/Tunga-Icons.woff?oriplk') format('woff'),
-    url('fonts/Tunga-Icons.svg?oriplk#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?6inr3z');
+  src:  url('fonts/Tunga-Icons.eot?6inr3z#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?6inr3z') format('truetype'),
+    url('fonts/Tunga-Icons.woff?6inr3z') format('woff'),
+    url('fonts/Tunga-Icons.svg?6inr3z#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-location-arrow:before {
+  content: "\e996";
+}
+.tg-ic-phone-square:before {
+  content: "\e991";
+}
+.tg-ic-phone:before {
+  content: "\e992";
+}
+.tg-ic-address-book-o:before {
+  content: "\e993";
+}
+.tg-ic-address-book:before {
+  content: "\e994";
+}
+.tg-ic-lock:before {
+  content: "\e995";
+}
 .tg-ic-flag-o:before {
   content: "\e98f";
 }
