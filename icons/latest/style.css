@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?3o9yhj');
-  src:  url('fonts/Tunga-Icons.eot?3o9yhj#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?3o9yhj') format('truetype'),
-    url('fonts/Tunga-Icons.woff?3o9yhj') format('woff'),
-    url('fonts/Tunga-Icons.svg?3o9yhj#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?g09pz6');
+  src:  url('fonts/Tunga-Icons.eot?g09pz6#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?g09pz6') format('truetype'),
+    url('fonts/Tunga-Icons.woff?g09pz6') format('woff'),
+    url('fonts/Tunga-Icons.svg?g09pz6#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,11 +24,156 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-image:before {
+  content: "\e92e";
+}
+.tg-ic-education:before {
+  content: "\e92f";
+}
+.tg-ic-drill:before {
+  content: "\e931";
+}
+.tg-ic-cv:before {
+  content: "\e932";
+}
+.tg-ic-skills:before {
+  content: "\e933";
+}
+.tg-ic-tool-case:before {
+  content: "\e937";
+}
+.tg-ic-build-network:before {
+  content: "\e938";
+}
+.tg-ic-post-task:before {
+  content: "\e939";
+}
+.tg-ic-manage-tasks:before {
+  content: "\e93a";
+}
+.tg-ic-make-transaction:before {
+  content: "\e93b";
+}
+.tg-ic-browse-developers:before {
+  content: "\e93c";
+}
+.tg-ic-intensive-guidance:before {
+  content: "\e93d";
+}
+.tg-ic-dedicated-monitor:before {
+  content: "\e93e";
+}
+.tg-ic-do-it-yourself:before {
+  content: "\e93f";
+}
+.tg-ic-project:before {
+  content: "\e940";
+}
+.tg-ic-coding-skills:before {
+  content: "\e947";
+}
+.tg-ic-teamwork-dot:before {
+  content: "\e948";
+}
+.tg-ic-teamwork-arrow:before {
+  content: "\e949";
+}
+.tg-ic-teamwork:before {
+  content: "\e94a";
+}
+.tg-ic-soft-skills-alt:before {
+  content: "\e94b";
+}
+.tg-ic-soft-skills:before {
+  content: "\e94c";
+}
+.tg-ic-do-workflow:before {
+  content: "\e94d";
+}
+.tg-ic-do-workflow-alt:before {
+  content: "\e94e";
+}
+.tg-ic-do-web:before {
+  content: "\e94f";
+}
+.tg-ic-do-slice:before {
+  content: "\e950";
+}
+.tg-ic-do-pm:before {
+  content: "\e951";
+}
+.tg-ic-do-pm-alt:before {
+  content: "\e952";
+}
+.tg-ic-do-app:before {
+  content: "\e953";
+}
+.tg-ic-how-feedback:before {
+  content: "\e954";
+}
+.tg-ic-how-workflow:before {
+  content: "\e955";
+}
+.tg-ic-how-matches:before {
+  content: "\e956";
+}
+.tg-ic-how-needs:before {
+  content: "\e957";
+}
+.tg-ic-mobile:before {
+  content: "\e958";
+}
+.tg-ic-other:before {
+  content: "\e959";
+}
+.tg-ic-speed-up:before {
+  content: "\e95a";
+}
+.tg-ic-web:before {
+  content: "\e95b";
+}
+.tg-ic-web-alt:before {
+  content: "\e95c";
+}
+.tg-ic-service-workflow:before {
+  content: "\e95d";
+}
+.tg-ic-service-web:before {
+  content: "\e95e";
+}
+.tg-ic-service-slicing:before {
+  content: "\e95f";
+}
+.tg-ic-service-pm:before {
+  content: "\e960";
+}
+.tg-ic-service-app:before {
+  content: "\e961";
+}
+.tg-ic-cv-alt:before {
+  content: "\e965";
+}
+.tg-ic-file-search:before {
+  content: "\e96a";
+}
+.tg-ic-building:before {
+  content: "\e96d";
+  color: #777;
+}
+.tg-ic-money-loop:before {
+  content: "\e925";
+}
+.tg-ic-bars:before {
+  content: "\e964";
+}
 .tg-ic-check:before {
   content: "\e904";
 }
 .tg-ic-close:before {
   content: "\e907";
+}
+.tg-ic-cross:before {
+  content: "\e963";
 }
 .tg-ic-attention:before {
   content: "\e905";
@@ -38,6 +183,9 @@
 }
 .tg-ic-add:before {
   content: "\e903";
+}
+.tg-ic-question:before {
+  content: "\e962";
 }
 .tg-ic-circle:before {
   content: "\e918";
@@ -54,8 +202,20 @@
 .tg-ic-pencil:before {
   content: "\e90c";
 }
+.tg-ic-attachment:before {
+  content: "\e930";
+}
+.tg-ic-copy:before {
+  content: "\e921";
+}
 .tg-ic-logout:before {
   content: "\e911";
+}
+.tg-ic-exit-door:before {
+  content: "\e934";
+}
+.tg-ic-paper-plane:before {
+  content: "\e936";
 }
 .tg-ic-chat:before {
   content: "\e900";
@@ -63,8 +223,20 @@
 .tg-ic-headphone:before {
   content: "\e924";
 }
+.tg-ic-home:before {
+  content: "\e92d";
+}
+.tg-ic-messages:before {
+  content: "\e92a";
+}
+.tg-ic-support:before {
+  content: "\e941";
+}
 .tg-ic-tools:before {
   content: "\e91a";
+}
+.tg-ic-location:before {
+  content: "\e92c";
 }
 .tg-ic-rocket:before {
   content: "\e929";
@@ -90,6 +262,30 @@
 .tg-ic-filter:before {
   content: "\e90d";
 }
+.tg-ic-arrow-left:before {
+  content: "\e968";
+}
+.tg-ic-arrow-right:before {
+  content: "\e966";
+}
+.tg-ic-arrow-up:before {
+  content: "\e969";
+}
+.tg-ic-arrow-down:before {
+  content: "\e967";
+}
+.tg-ic-caret-left:before {
+  content: "\e96c";
+}
+.tg-ic-caret-down:before {
+  content: "\e96b";
+}
+.tg-ic-previous:before {
+  content: "\e943";
+}
+.tg-ic-next:before {
+  content: "\e942";
+}
 .tg-ic-avatar:before {
   content: "\e916";
 }
@@ -99,6 +295,9 @@
 .tg-ic-calendar-add:before {
   content: "\e923";
 }
+.tg-ic-agenda:before {
+  content: "\e926";
+}
 .tg-ic-meter:before {
   content: "\e908";
 }
@@ -107,6 +306,9 @@
 }
 .tg-ic-projects:before {
   content: "\e917";
+}
+.tg-ic-profile:before {
+  content: "\e945";
 }
 .tg-ic-id:before {
   content: "\e910";
@@ -143,4 +345,13 @@
 }
 .tg-ic-trello:before {
   content: "\e91d";
+}
+.tg-ic-coinbase:before {
+  content: "\e96e";
+}
+.tg-ic-iDeal:before {
+  content: "\e944";
+}
+.tg-ic-harvest:before {
+  content: "\e946";
 }
