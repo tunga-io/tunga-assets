@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?juha21');
-  src:  url('fonts/Tunga-Icons.eot?juha21#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?juha21') format('truetype'),
-    url('fonts/Tunga-Icons.woff?juha21') format('woff'),
-    url('fonts/Tunga-Icons.svg?juha21#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?baszdz');
+  src:  url('fonts/Tunga-Icons.eot?baszdz#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?baszdz') format('truetype'),
+    url('fonts/Tunga-Icons.woff?baszdz') format('woff'),
+    url('fonts/Tunga-Icons.svg?baszdz#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-tg-ic-toggle-off:before {
+  content: "\e9a0";
+}
+.tg-ic-tg-ic-toggle-on:before {
+  content: "\e9a1";
+}
 .tg-ic-bell-o:before {
   content: "\e99c";
 }
