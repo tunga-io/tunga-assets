@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tunga-icons';
-  src:  url('fonts/tunga-icons.eot?aic350');
-  src:  url('fonts/tunga-icons.eot?aic350#iefix') format('embedded-opentype'),
-    url('fonts/tunga-icons.ttf?aic350') format('truetype'),
-    url('fonts/tunga-icons.woff?aic350') format('woff'),
-    url('fonts/tunga-icons.svg?aic350#tunga-icons') format('svg');
+  src:  url('fonts/tunga-icons.eot?atbvd6');
+  src:  url('fonts/tunga-icons.eot?atbvd6#iefix') format('embedded-opentype'),
+    url('fonts/tunga-icons.ttf?atbvd6') format('truetype'),
+    url('fonts/tunga-icons.woff?atbvd6') format('woff'),
+    url('fonts/tunga-icons.svg?atbvd6#tunga-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tunga-icon-phone-square:before {
+  content: "\e962";
+}
+.tunga-icon-phone:before {
+  content: "\e963";
+}
 .tunga-icon-money-loop:before {
   content: "\e960";
 }
