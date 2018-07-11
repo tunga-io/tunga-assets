@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?pkp0h7');
-  src:  url('fonts/Tunga-Icons.eot?pkp0h7#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?pkp0h7') format('truetype'),
-    url('fonts/Tunga-Icons.woff?pkp0h7') format('woff'),
-    url('fonts/Tunga-Icons.svg?pkp0h7#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?xuk4c9');
+  src:  url('fonts/Tunga-Icons.eot?xuk4c9#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?xuk4c9') format('truetype'),
+    url('fonts/Tunga-Icons.woff?xuk4c9') format('woff'),
+    url('fonts/Tunga-Icons.svg?xuk4c9#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-envelope-o:before {
+  content: "\e9a4";
+}
+.tg-ic-envelope-open-o:before {
+  content: "\e9a5";
+}
+.tg-ic-envelope-open:before {
+  content: "\e9a6";
+}
+.tg-ic-envelope-square:before {
+  content: "\e9a7";
+}
+.tg-ic-envelope:before {
+  content: "\e9a8";
+}
 .tg-ic-info-circle:before {
   content: "\e9a2";
 }
