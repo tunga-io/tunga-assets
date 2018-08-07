@@ -1,3 +1,12 @@
+.tg-ic-team-thick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a9;');
+}
+.tg-ic-rocket-side-thick {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9aa;');
+}
+.tg-ic-team {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ab;');
+}
 .tg-ic-envelope-o {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a4;');
 }

@@ -13,6 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'Tunga-Icons\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'tg-ic-team-thick': '&#xe9a9;',
+		'tg-ic-rocket-side-thick': '&#xe9aa;',
+		'tg-ic-team': '&#xe9ab;',
 		'tg-ic-envelope-o': '&#xe9a4;',
 		'tg-ic-envelope-open-o': '&#xe9a5;',
 		'tg-ic-envelope-open': '&#xe9a6;',
