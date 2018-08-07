@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?i85158');
-  src:  url('fonts/Tunga-Icons.eot?i85158#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?i85158') format('truetype'),
-    url('fonts/Tunga-Icons.woff?i85158') format('woff'),
-    url('fonts/Tunga-Icons.svg?i85158#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?ev6a6f');
+  src:  url('fonts/Tunga-Icons.eot?ev6a6f#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?ev6a6f') format('truetype'),
+    url('fonts/Tunga-Icons.woff?ev6a6f') format('woff'),
+    url('fonts/Tunga-Icons.svg?ev6a6f#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-google:before {
+  content: "\e9ac";
+}
+.tg-ic-google-plus-circle:before {
+  content: "\e9ad";
+}
+.tg-ic-google-plus-official:before {
+  content: "\e9ae";
+}
+.tg-ic-google-plus-square:before {
+  content: "\e9af";
+}
+.tg-ic-google-plus:before {
+  content: "\e9b0";
+}
 .tg-ic-team-thick:before {
   content: "\e9a9";
   color: #777;

@@ -1,3 +1,18 @@
+.tg-ic-google {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ac;');
+}
+.tg-ic-google-plus-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ad;');
+}
+.tg-ic-google-plus-official {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ae;');
+}
+.tg-ic-google-plus-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;');
+}
+.tg-ic-google-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b0;');
+}
 .tg-ic-team-thick {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a9;');
 }
