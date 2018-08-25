@@ -1,3 +1,6 @@
+.tg-ic-bullhorn {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b3;');
+}
 .tg-ic-quote-left {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b1;');
 }

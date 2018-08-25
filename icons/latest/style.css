@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?43cyg3');
-  src:  url('fonts/Tunga-Icons.eot?43cyg3#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?43cyg3') format('truetype'),
-    url('fonts/Tunga-Icons.woff?43cyg3') format('woff'),
-    url('fonts/Tunga-Icons.svg?43cyg3#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?h8nqwx');
+  src:  url('fonts/Tunga-Icons.eot?h8nqwx#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?h8nqwx') format('truetype'),
+    url('fonts/Tunga-Icons.woff?h8nqwx') format('woff'),
+    url('fonts/Tunga-Icons.svg?h8nqwx#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-bullhorn:before {
+  content: "\e9b3";
+}
 .tg-ic-quote-left:before {
   content: "\e9b1";
 }
