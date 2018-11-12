@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('fonts/Tunga-Icons.eot?mgev6k');
-  src:  url('fonts/Tunga-Icons.eot?mgev6k#iefix') format('embedded-opentype'),
-    url('fonts/Tunga-Icons.ttf?mgev6k') format('truetype'),
-    url('fonts/Tunga-Icons.woff?mgev6k') format('woff'),
-    url('fonts/Tunga-Icons.svg?mgev6k#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?549lhu');
+  src:  url('fonts/Tunga-Icons.eot?549lhu#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?549lhu') format('truetype'),
+    url('fonts/Tunga-Icons.woff?549lhu') format('woff'),
+    url('fonts/Tunga-Icons.svg?549lhu#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-lock-alt:before {
+  content: "\e9b6";
+  color: #757575;
+}
+.tg-ic-search-alt:before {
+  content: "\e9b7";
+}
+.tg-ic-chat-alt:before {
+  content: "\e9b8";
+}
+.tg-ic-headphone-alt:before {
+  content: "\e9b9";
+}
 .tg-ic-times-circle-o:before {
   content: "\e9b5";
 }
