@@ -1,0 +1,358 @@
+@font-face {
+  font-family: 'tunga-icons';
+  src:  url('fonts/tunga-icons.eot?sefd2j');
+  src:  url('fonts/tunga-icons.eot?sefd2j#iefix') format('embedded-opentype'),
+    url('fonts/tunga-icons.ttf?sefd2j') format('truetype'),
+    url('fonts/tunga-icons.woff?sefd2j') format('woff'),
+    url('fonts/tunga-icons.svg?sefd2j#tunga-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="tunga-icon-"], [class*=" tunga-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tunga-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tunga-icon-close:before {
+  content: "\e965";
+}
+.tunga-icon-chat:before {
+  content: "\e964";
+}
+.tunga-icon-phone-square:before {
+  content: "\e962";
+}
+.tunga-icon-phone:before {
+  content: "\e963";
+}
+.tunga-icon-money-loop:before {
+  content: "\e960";
+}
+.tunga-icon-rocket-side-thick:before {
+  content: "\e958";
+  color: #777;
+}
+.tunga-icon-building:before {
+  content: "\e959";
+  color: #777;
+}
+.tunga-icon-copy:before {
+  content: "\e95a";
+}
+.tunga-icon-caret-left:before {
+  content: "\e95b";
+}
+.tunga-icon-team-thick:before {
+  content: "\e95c";
+  color: #777;
+}
+.tunga-icon-caret-down:before {
+  content: "\e95d";
+}
+.tunga-icon-team:before {
+  content: "\e95e";
+}
+.tunga-icon-file-search:before {
+  content: "\e95f";
+}
+.tunga-icon-arrow-up:before {
+  content: "\e953";
+}
+.tunga-icon-arrow-left:before {
+  content: "\e954";
+}
+.tunga-icon-arrow-down:before {
+  content: "\e956";
+}
+.tunga-icon-arrow-right:before {
+  content: "\e957";
+}
+.tunga-icon-filter-alt:before {
+  content: "\e952";
+}
+.tunga-icon-cv-alt:before {
+  content: "\e951";
+}
+.tunga-icon-bars:before {
+  content: "\e950";
+}
+.tunga-icon-check:before {
+  content: "\e94c";
+}
+.tunga-icon-cross:before {
+  content: "\e94d";
+}
+.tunga-icon-question:before {
+  content: "\e94f";
+}
+.tunga-icon-service-app:before {
+  content: "\e947";
+}
+.tunga-icon-service-pm:before {
+  content: "\e948";
+}
+.tunga-icon-service-slicing:before {
+  content: "\e949";
+}
+.tunga-icon-service-web:before {
+  content: "\e94a";
+}
+.tunga-icon-service-workflow:before {
+  content: "\e94b";
+}
+.tunga-icon-web-alt:before {
+  content: "\e93e";
+}
+.tunga-icon-web:before {
+  content: "\e93f";
+}
+.tunga-icon-tools:before {
+  content: "\e940";
+}
+.tunga-icon-speed-up:before {
+  content: "\e941";
+}
+.tunga-icon-other:before {
+  content: "\e942";
+}
+.tunga-icon-mobile:before {
+  content: "\e945";
+}
+.tunga-icon-how-needs:before {
+  content: "\e93a";
+}
+.tunga-icon-how-matches:before {
+  content: "\e93b";
+}
+.tunga-icon-how-workflow:before {
+  content: "\e93c";
+}
+.tunga-icon-how-feedback:before {
+  content: "\e93d";
+}
+.tunga-icon-do-app:before {
+  content: "\e920";
+}
+.tunga-icon-do-pm-alt:before {
+  content: "\e921";
+}
+.tunga-icon-do-pm:before {
+  content: "\e925";
+}
+.tunga-icon-do-slice:before {
+  content: "\e935";
+}
+.tunga-icon-do-web:before {
+  content: "\e936";
+}
+.tunga-icon-do-workflow-alt:before {
+  content: "\e938";
+}
+.tunga-icon-do-workflow:before {
+  content: "\e939";
+}
+.tunga-icon-rocket-o:before {
+  content: "\e92a";
+}
+.tunga-icon-rocket:before {
+  content: "\e92b";
+}
+.tunga-icon-rocket-circle .path1:before {
+  content: "\e92c";
+  color: rgb(237, 29, 83);
+}
+.tunga-icon-rocket-circle .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path3:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path4:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path5:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path6:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path7:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path8:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-rocket-circle .path9:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.tunga-icon-soft-skills:before {
+  content: "\e922";
+}
+.tunga-icon-soft-skills-alt:before {
+  content: "\e923";
+}
+.tunga-icon-teamwork:before {
+  content: "\e926";
+}
+.tunga-icon-teamwork-arrow:before {
+  content: "\e927";
+}
+.tunga-icon-teamwork-dot:before {
+  content: "\e928";
+}
+.tunga-icon-coding-skills:before {
+  content: "\e929";
+}
+.tunga-icon-schedule:before {
+  content: "\e917";
+}
+.tunga-icon-rocket-side:before {
+  content: "\e918";
+}
+.tunga-icon-headphone:before {
+  content: "\e91f";
+}
+.tunga-icon-filter:before {
+  content: "\e915";
+}
+.tunga-icon-create:before {
+  content: "\e916";
+}
+.tunga-icon-harvest:before {
+  content: "\e914";
+}
+.tunga-icon-Profile:before {
+  content: "\e91e";
+}
+.tunga-icon-iDeal:before {
+  content: "\e91c";
+}
+.tunga-icon-coinbase:before {
+  content: "\e91d";
+}
+.tunga-icon-next:before {
+  content: "\e91b";
+}
+.tunga-icon-previous:before {
+  content: "\e91a";
+}
+.tunga-icon-support:before {
+  content: "\e919";
+}
+.tunga-icon-project:before {
+  content: "\e944";
+}
+.tunga-icon-task:before {
+  content: "\e943";
+}
+.tunga-icon-do-it-yourself:before {
+  content: "\e955";
+}
+.tunga-icon-dedicated-monitor:before {
+  content: "\e961";
+}
+.tunga-icon-intensive-guildance:before {
+  content: "\e973";
+}
+.tunga-icon-browse-developers:before {
+  content: "\e913";
+}
+.tunga-icon-make-transaction:before {
+  content: "\e924";
+}
+.tunga-icon-manage-tasks:before {
+  content: "\e937";
+}
+.tunga-icon-post-task:before {
+  content: "\e946";
+}
+.tunga-icon-build-network:before {
+  content: "\e94e";
+}
+.tunga-icon-running-tasks:before {
+  content: "\e900";
+}
+.tunga-icon-send:before {
+  content: "\e901";
+}
+.tunga-icon-settings:before {
+  content: "\e902";
+}
+.tunga-icon-sign-out:before {
+  content: "\e903";
+}
+.tunga-icon-skills:before {
+  content: "\e904";
+}
+.tunga-icon-tag:before {
+  content: "\e905";
+}
+.tunga-icon-tribe:before {
+  content: "\e906";
+}
+.tunga-icon-cv:before {
+  content: "\e907";
+}
+.tunga-icon-work:before {
+  content: "\e908";
+}
+.tunga-icon-attachment:before {
+  content: "\e909";
+}
+.tunga-icon-education:before {
+  content: "\e90a";
+}
+.tunga-icon-search:before {
+  content: "\e90b";
+}
+.tunga-icon-home:before {
+  content: "\e90c";
+}
+.tunga-icon-image:before {
+  content: "\e90d";
+}
+.tunga-icon-location:before {
+  content: "\e90e";
+}
+.tunga-icon-message:before {
+  content: "\e90f";
+}
+.tunga-icon-wallet:before {
+  content: "\e910";
+}
+.tunga-icon-profile:before {
+  content: "\e911";
+}
+.tunga-icon-agenda:before {
+  content: "\e912";
+}
+.tunga-icon-google-drive:before {
+  content: "\ea8f";
+}
