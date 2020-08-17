@@ -1,19 +1,20 @@
 @font-face {
   font-family: 'Tunga-Icons';
-  src:  url('https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons.eot?eo5sy');
-  src:  url('https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons.eot?eo5sy#iefix') format('embedded-opentype'),
-    url('https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons.ttf?eo5sy') format('truetype'),
-    url('https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons.woff?eo5sy') format('woff'),
-    url('https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons.svg?eo5sy#Tunga-Icons') format('svg');
+  src:  url('fonts/Tunga-Icons.eot?f68912');
+  src:  url('fonts/Tunga-Icons.eot?f68912#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.ttf?f68912') format('truetype'),
+    url('fonts/Tunga-Icons.woff?f68912') format('woff'),
+    url('fonts/Tunga-Icons.svg?f68912#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
   font-display: swap;
 }
 
 [class^="tg-ic-"], [class*=" tg-ic-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Tunga-Icons' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -25,6 +26,96 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tg-ic-angle-right-circle:before {
+  content: "\e900";
+}
+.tg-ic-archive-outline:before {
+  content: "\e901";
+}
+.tg-ic-baseline-folder-open:before {
+  content: "\e902";
+}
+.tg-ic-calendar2:before {
+  content: "\e903";
+}
+.tg-ic-cancel:before {
+  content: "\e904";
+}
+.tg-ic-check3:before {
+  content: "\e905";
+}
+.tg-ic-circle-edit-outline:before {
+  content: "\e906";
+}
+.tg-ic-clock-outline:before {
+  content: "\e907";
+}
+.tg-ic-delete-outline:before {
+  content: "\e908";
+}
+.tg-ic-dots-horizontal:before {
+  content: "\e909";
+}
+.tg-ic-exclamation-triangle:before {
+  content: "\e90a";
+}
+.tg-ic-file-document-outline:before {
+  content: "\e90b";
+}
+.tg-ic-file-upload-outline:before {
+  content: "\e90c";
+}
+.tg-ic-filter-variant:before {
+  content: "\e90d";
+}
+.tg-ic-flag-outline:before {
+  content: "\e90e";
+}
+.tg-ic-information-outline:before {
+  content: "\e90f";
+}
+.tg-ic-link-variant:before {
+  content: "\e910";
+}
+.tg-ic-log-out:before {
+  content: "\e911";
+}
+.tg-ic-outline-dashboard:before {
+  content: "\e912";
+}
+.tg-ic-outline-remove-red-eye:before {
+  content: "\e913";
+}
+.tg-ic-outline-settings:before {
+  content: "\e914";
+}
+.tg-ic-paperclip:before {
+  content: "\e915";
+}
+.tg-ic-round-add:before {
+  content: "\e916";
+}
+.tg-ic-round-arrow-back-ios:before {
+  content: "\e917";
+}
+.tg-ic-round-payment:before {
+  content: "\e918";
+}
+.tg-ic-rounded-keyboard-arrow-down:before {
+  content: "\e919";
+}
+.tg-ic-search:before {
+  content: "\e91a";
+}
+.tg-ic-toggle-switch-off:before {
+  content: "\e91b";
+}
+.tg-ic-toggle-switch-on:before {
+  content: "\e91c";
+}
+.tg-ic-x-circle:before {
+  content: "\e91d";
+}
 .tg-ic-youtube-play:before {
   content: "\e9ba";
 }
@@ -381,212 +472,212 @@
   content: "\e964";
 }
 .tg-ic-check:before {
-  content: "\e904";
+  content: "\e91e";
 }
 .tg-ic-close:before {
-  content: "\e907";
+  content: "\e91f";
 }
 .tg-ic-cross:before {
   content: "\e963";
 }
 .tg-ic-attention:before {
-  content: "\e905";
+  content: "\e920";
 }
 .tg-ic-warning:before {
   content: "\e922";
 }
 .tg-ic-add:before {
-  content: "\e903";
+  content: "\e921";
 }
 .tg-ic-question:before {
   content: "\e962";
 }
 .tg-ic-circle:before {
-  content: "\e918";
+  content: "\e923";
 }
-.tg-ic-search:before {
-  content: "\e919";
+.tg-ic-search1:before {
+  content: "\e924";
 }
 .tg-ic-download:before {
-  content: "\e90a";
+  content: "\e926";
 }
 .tg-ic-upload:before {
-  content: "\e91f";
+  content: "\e927";
 }
 .tg-ic-pencil:before {
-  content: "\e90c";
+  content: "\e928";
 }
 .tg-ic-attachment:before {
   content: "\e930";
 }
 .tg-ic-copy:before {
-  content: "\e921";
+  content: "\e929";
 }
 .tg-ic-logout:before {
-  content: "\e911";
+  content: "\e92a";
 }
 .tg-ic-exit-door:before {
   content: "\e934";
 }
 .tg-ic-paper-plane:before {
-  content: "\e928";
+  content: "\e92b";
 }
 .tg-ic-paper-plane-outline:before {
   content: "\e936";
 }
 .tg-ic-chat:before {
-  content: "\e900";
-}
-.tg-ic-headphone:before {
-  content: "\e924";
-}
-.tg-ic-home:before {
-  content: "\e92d";
-}
-.tg-ic-messages:before {
-  content: "\e92a";
-}
-.tg-ic-support:before {
-  content: "\e941";
-}
-.tg-ic-tools:before {
-  content: "\e91a";
-}
-.tg-ic-location:before {
   content: "\e92c";
 }
-.tg-ic-rocket:before {
-  content: "\e929";
+.tg-ic-headphone:before {
+  content: "\e92d";
 }
-.tg-ic-rocket-tilted:before {
-  content: "\e90f";
-}
-.tg-ic-rocket-o:before {
+.tg-ic-home:before {
   content: "\e935";
 }
-.tg-ic-rocket-circle:before {
-  content: "\e92b";
+.tg-ic-messages:before {
+  content: "\e941";
 }
-.tg-ic-ellipsis:before {
-  content: "\e902";
-}
-.tg-ic-colon:before {
-  content: "\e901";
-}
-.tg-ic-filter-alt:before {
-  content: "\e927";
-}
-.tg-ic-filter:before {
-  content: "\e90d";
-}
-.tg-ic-arrow-left:before {
-  content: "\e968";
-}
-.tg-ic-arrow-right:before {
-  content: "\e966";
-}
-.tg-ic-arrow-up:before {
-  content: "\e969";
-}
-.tg-ic-arrow-down:before {
-  content: "\e967";
-}
-.tg-ic-caret-left:before {
-  content: "\e96c";
-}
-.tg-ic-caret-down:before {
-  content: "\e96b";
-}
-.tg-ic-previous:before {
-  content: "\e943";
-}
-.tg-ic-next:before {
+.tg-ic-support:before {
   content: "\e942";
 }
-.tg-ic-avatar:before {
-  content: "\e916";
+.tg-ic-tools:before {
+  content: "\e943";
 }
-.tg-ic-calendar:before {
-  content: "\e906";
+.tg-ic-location:before {
+  content: "\e944";
 }
-.tg-ic-calendar-add:before {
-  content: "\e923";
-}
-.tg-ic-agenda:before {
-  content: "\e926";
-}
-.tg-ic-meter:before {
-  content: "\e908";
-}
-.tg-ic-file:before {
-  content: "\e909";
-}
-.tg-ic-projects:before {
-  content: "\e917";
-}
-.tg-ic-profile:before {
+.tg-ic-rocket:before {
   content: "\e945";
 }
-.tg-ic-id:before {
-  content: "\e910";
-}
-.tg-ic-bank:before {
-  content: "\e912";
-}
-.tg-ic-card:before {
-  content: "\e913";
-}
-.tg-ic-wallet:before {
-  content: "\e914";
-}
-.tg-ic-cash:before {
-  content: "\e915";
-}
-.tg-ic-tag:before {
-  content: "\e91c";
-}
-.tg-ic-link:before {
-  content: "\e920";
-}
-.tg-ic-tribe:before {
-  content: "\e91e";
-}
-.tg-ic-github:before {
-  content: "\e90e";
-}
-.tg-ic-github-alt:before {
-  content: "\e96f";
-}
-.tg-ic-github-square:before {
-  content: "\e974";
-}
-.tg-ic-gitlab:before {
-  content: "\e975";
-}
-.tg-ic-slack:before {
-  content: "\e91b";
-}
-.tg-ic-g-drive:before {
-  content: "\e90b";
-}
-.tg-ic-trello:before {
-  content: "\e91d";
-}
-.tg-ic-facebook-official:before {
-  content: "\e970";
-}
-.tg-ic-facebook-square:before {
-  content: "\e971";
-}
-.tg-ic-facebook:before {
-  content: "\e972";
-}
-.tg-ic-coinbase:before {
-  content: "\e96e";
-}
-.tg-ic-harvest:before {
+.tg-ic-rocket-tilted:before {
   content: "\e946";
 }
+.tg-ic-rocket-o:before {
+  content: "\e966";
+}
+.tg-ic-rocket-circle:before {
+  content: "\e967";
+}
+.tg-ic-ellipsis:before {
+  content: "\e968";
+}
+.tg-ic-colon:before {
+  content: "\e969";
+}
+.tg-ic-filter-alt:before {
+  content: "\e96b";
+}
+.tg-ic-filter:before {
+  content: "\e96c";
+}
+.tg-ic-arrow-left:before {
+  content: "\e96e";
+}
+.tg-ic-arrow-right:before {
+  content: "\e96f";
+}
+.tg-ic-arrow-up:before {
+  content: "\e970";
+}
+.tg-ic-arrow-down:before {
+  content: "\e971";
+}
+.tg-ic-caret-left:before {
+  content: "\e972";
+}
+.tg-ic-caret-down:before {
+  content: "\e974";
+}
+.tg-ic-previous:before {
+  content: "\e975";
+}
+.tg-ic-next:before {
+  content: "\e9bb";
+}
+.tg-ic-avatar:before {
+  content: "\e9bc";
+}
+.tg-ic-calendar:before {
+  content: "\e9bd";
+}
+.tg-ic-calendar-add:before {
+  content: "\e9be";
+}
+.tg-ic-agenda:before {
+  content: "\e9bf";
+}
+.tg-ic-meter:before {
+  content: "\e9c0";
+}
+.tg-ic-file:before {
+  content: "\e9c1";
+}
+.tg-ic-projects:before {
+  content: "\e9c2";
+}
+.tg-ic-profile:before {
+  content: "\e9c3";
+}
+.tg-ic-id:before {
+  content: "\e9c4";
+}
+.tg-ic-bank:before {
+  content: "\e9c5";
+}
+.tg-ic-card:before {
+  content: "\e9c6";
+}
+.tg-ic-wallet:before {
+  content: "\e9c7";
+}
+.tg-ic-cash:before {
+  content: "\e9c8";
+}
+.tg-ic-tag:before {
+  content: "\e9c9";
+}
+.tg-ic-link:before {
+  content: "\e9ca";
+}
+.tg-ic-tribe:before {
+  content: "\e9cb";
+}
+.tg-ic-github:before {
+  content: "\e9cc";
+}
+.tg-ic-github-alt:before {
+  content: "\e9cd";
+}
+.tg-ic-github-square:before {
+  content: "\e9ce";
+}
+.tg-ic-gitlab:before {
+  content: "\e9cf";
+}
+.tg-ic-slack:before {
+  content: "\e9d0";
+}
+.tg-ic-g-drive:before {
+  content: "\e9d1";
+}
+.tg-ic-trello:before {
+  content: "\e9d2";
+}
+.tg-ic-facebook-official:before {
+  content: "\e9d3";
+}
+.tg-ic-facebook-square:before {
+  content: "\e9d4";
+}
+.tg-ic-facebook:before {
+  content: "\e9d5";
+}
+.tg-ic-coinbase:before {
+  content: "\e9d6";
+}
+.tg-ic-harvest:before {
+  content: "\e9d7";
+}
 .tg-ic-iDeal:before {
-  content: "\e944";
+  content: "\e9d8";
 }
