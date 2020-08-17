@@ -7,13 +7,13 @@
 .tg-ic-baseline-folder-open {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
 }
-.tg-ic-calendar {
+.tg-ic-calendar2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
 }
 .tg-ic-cancel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
 }
-.tg-ic-check {
+.tg-ic-check3 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
 }
 .tg-ic-circle-edit-outline {
@@ -439,7 +439,7 @@
 .tg-ic-bars {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;');
 }
-.tg-ic-check1 {
+.tg-ic-check {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91e;');
 }
 .tg-ic-close {
@@ -565,7 +565,7 @@
 .tg-ic-avatar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bc;');
 }
-.tg-ic-calendar1 {
+.tg-ic-calendar {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bd;');
 }
 .tg-ic-calendar-add {
