@@ -4,9 +4,17 @@
   src:  url('fonts/Tunga-Icons.eot?f68912#iefix') format('embedded-opentype'),
     url('fonts/Tunga-Icons.ttf?f68912') format('truetype'),
     url('fonts/Tunga-Icons.woff?f68912') format('woff'),
-    url('fonts/Tunga-Icons.svg?f68912#Tunga-Icons') format('svg'),
-    
-    url('fonts/Tunga-Icons-new.eot?jcdzc6#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons.svg?f68912#Tunga-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tunga-Icons-new';
+  src:  url('fonts/Tunga-Icons-new.eot?jcdzc6');
+  src:  url('fonts/Tunga-Icons-new.eot?jcdzc6#iefix') format('embedded-opentype'),
     url('fonts/Tunga-Icons-new.ttf?jcdzc6') format('truetype'),
     url('fonts/Tunga-Icons-new.woff?jcdzc6') format('woff'),
     url('fonts/Tunga-Icons-new.svg?jcdzc6#Tunga-Icons') format('svg');
@@ -18,7 +26,7 @@
 
 [class^="tg-ic-"], [class*=" tg-ic-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Tunga-Icons' !important;
+  font-family: 'Tunga-Icons', 'Tunga-Icons-new' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
