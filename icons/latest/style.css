@@ -4,7 +4,12 @@
   src:  url('fonts/Tunga-Icons.eot?f68912#iefix') format('embedded-opentype'),
     url('fonts/Tunga-Icons.ttf?f68912') format('truetype'),
     url('fonts/Tunga-Icons.woff?f68912') format('woff'),
-    url('fonts/Tunga-Icons.svg?f68912#Tunga-Icons') format('svg');
+    url('fonts/Tunga-Icons.svg?f68912#Tunga-Icons') format('svg'),
+    
+    url('fonts/Tunga-Icons-new.eot?jcdzc6#iefix') format('embedded-opentype'),
+    url('fonts/Tunga-Icons-new.ttf?jcdzc6') format('truetype'),
+    url('fonts/Tunga-Icons-new.woff?jcdzc6') format('woff'),
+    url('fonts/Tunga-Icons-new.svg?jcdzc6#Tunga-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -681,3 +686,17 @@
 .tg-ic-iDeal:before {
   content: "\e9d8";
 }
+
+.tg-ic-award:before {
+  content: "\e801";
+}
+.tg-ic-account-outline:before {
+  content: "\e800";
+}
+.tg-ic-briefcase-clock-outline:before {
+  content: "\e802";
+}
+.tg-ic-bullhorn-outline:before {
+  content: "\e803";
+}
+
