@@ -10,9 +10,14 @@
 (function() {
 	function addIcon(el, entity) {
 		var html = el.innerHTML;
-		el.innerHTML = '<span style="font-family: \'Tunga-Icons\'">' + entity + '</span>' + html;
+		el.innerHTML = '<span style="font-family: \'Tunga-Icons\', \'Tunga-Icons-new\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'tg-ic-award': '&#xe801;',
+		'tg-ic-account-outline': '&#xe800;',
+		'tg-ic-briefcase-clock-outline': '&#xe802;',
+		'tg-ic-bullhorn-outline': '&#xe803;',
+
 		'tg-ic-angle-right-circle': '&#xe900;',
 		'tg-ic-archive-outline': '&#xe901;',
 		'tg-ic-baseline-folder-open': '&#xe902;',
