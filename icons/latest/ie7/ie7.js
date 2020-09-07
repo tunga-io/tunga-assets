@@ -17,6 +17,10 @@
 		'tg-ic-account-outline': '&#xe800;',
 		'tg-ic-briefcase-clock-outline': '&#xe802;',
 		'tg-ic-bullhorn-outline': '&#xe803;',
+		'tg-ic-arrow-up-left': '&#xe804;',
+		'tg-ic-arrow-up-right': '&#xe805;',
+		'tg-ic-circle-check': '&#xe806;',
+		'tg-ic-dots-horizontal-small': '&#xe807;',
 
 		'tg-ic-angle-right-circle': '&#xe900;',
 		'tg-ic-archive-outline': '&#xe901;',

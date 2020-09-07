@@ -38,11 +38,11 @@
 
 @font-face {
   font-family: "Tunga-Icons-new";
-  src: url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.eot?jcdzc6");
-  src: url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.eot?jcdzc6#iefix") format("embedded-opentype"),
-    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.ttf?jcdzc6") format("truetype"),
-    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.woff?jcdzc6") format("woff"),
-    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.svg?jcdzc6#Tunga-Icons") format("svg");
+  src: url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.eot?b4snn1");
+  src: url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.eot?b4snn1#iefix") format("embedded-opentype"),
+    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.ttf?b4snn1") format("truetype"),
+    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.woff?b4snn1") format("woff"),
+    url("https://resources.tunga.io/tunga-assets/icons/latest/fonts/Tunga-Icons-new.svg?b4snn1#Tunga-Icons") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -732,4 +732,16 @@
 }
 .tg-ic-bullhorn-outline:before {
   content: "\e803";
+}
+.tg-ic-arrow-up-left:before {
+  content: "\e804";
+}
+.tg-ic-arrow-up-right:before {
+  content: "\e805";
+}
+.tg-ic-circle-check:before {
+  content: "\e806";
+}
+.tg-ic-dots-horizontal-small:before {
+  content: "\e807";
 }
